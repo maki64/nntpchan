@@ -19,7 +19,12 @@ TL;DR edition:
     $ git clone https://github.com/majestrate/nntpchan
     $ cd nntpchan
     $ make
-    $ SRND_INSTALLER=0 ./srndv2 setup 
+    $ SRND_INSTALLER=0 ./srndv2 setup
+
+## Installation guide
+
+A proper installation guide will be out soon!
+
 
 ## Bugs and issues
 
